@@ -1,10 +1,4 @@
-
-
-
-
-
-
-
+<<<<<<< HEAD
 
 Stay Hungry, Stay Foolish
 
@@ -37,4 +31,7 @@ Stay Hungry, Stay Foolish
 
 
 "Nothing is impossible for a willing heart."
+
+
+time is precious
 
